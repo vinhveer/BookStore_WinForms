@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\bookstore\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\bookstore\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\bookstore\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\bookstore\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\bookstore\\data\\qlbscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:data\\qlbscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForms.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\MainForms.cs",
+              "RelativeDocumentMoniker": "MainForms.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\MainForms.cs",
+              "RelativeToolTip": "MainForms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:43:02.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\Authentication.cs",
+              "RelativeDocumentMoniker": "Authentication.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\Authentication.cs",
+              "RelativeToolTip": "Authentication.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:35:39.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\MainForms.cs",
+              "RelativeDocumentMoniker": "MainForms.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\MainForms.cs [Design]",
+              "RelativeToolTip": "MainForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:42:59.485Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authentication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\Authentication.cs",
+              "RelativeDocumentMoniker": "Authentication.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\Authentication.cs [Design]",
+              "RelativeToolTip": "Authentication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:35:31.38Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QlbsContext.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\Data\\QlbsContext.cs",
+              "RelativeDocumentMoniker": "Data\\QlbsContext.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\Data\\QlbsContext.cs",
+              "RelativeToolTip": "Data\\QlbsContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:34:32.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="Admin\UserControlAddCustomer.cs">
-      <SubType>UserControl</SubType>
+    <Compile Update="Admin\FormAddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\FormAddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\FormAddEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\FormAddProduct.cs">
+      <SubType>Form</SubType>
     </Compile>
     <Compile Update="Admin\UserControlAdminHome.cs">
       <SubType>UserControl</SubType>

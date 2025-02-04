@@ -42,7 +42,7 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { thôngTinĐăngNhậpToolStripMenuItem, đăngXuấToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(1178, 36);
+            menuStrip1.Size = new Size(1378, 36);
             menuStrip1.TabIndex = 0;
             menuStrip1.Text = "menuStrip1";
             // 
@@ -63,14 +63,14 @@
             panelMain.Font = new Font("Segoe UI", 10F);
             panelMain.Location = new Point(0, 39);
             panelMain.Name = "panelMain";
-            panelMain.Size = new Size(1178, 557);
+            panelMain.Size = new Size(1378, 608);
             panelMain.TabIndex = 1;
             // 
             // MainForms
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1178, 594);
+            ClientSize = new Size(1378, 644);
             Controls.Add(panelMain);
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;

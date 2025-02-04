@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\BookStore.csproj": {}
+    "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\BookStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\BookStore.csproj": {
+    "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\BookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\BookStore.csproj",
+        "projectUniqueName": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\BookStore.csproj",
         "projectName": "BookStore",
-        "projectPath": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\BookStore.csproj",
+        "projectPath": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\BookStore.csproj",
         "packagesPath": "C:\\Users\\vinhnq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\obj\\",
+        "outputPath": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

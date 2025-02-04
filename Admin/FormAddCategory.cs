@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BookStore.Admin
 {
-    public partial class UserControlAddCustomer : UserControl
+    public partial class FormAddCategory : Form
     {
-        public UserControlAddCustomer()
+        public FormAddCategory()
         {
             InitializeComponent();
         }

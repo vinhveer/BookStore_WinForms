@@ -1,26 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\",
+  "WorkspaceRootPath": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\bookstore\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\bookstore_winforms\\admin\\usercontroladminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:admin\\usercontroladminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\bookstore\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\bookstore_winforms\\admin\\usercontroladminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:admin\\usercontroladminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\bookstore\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\bookstore_winforms\\admin\\formaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:admin\\formaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\bookstore\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\bookstore_winforms\\admin\\formaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:admin\\formaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\funixcourse\\dotnet_tiny_project\\bookstore\\data\\qlbscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:data\\qlbscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\bookstore_winforms\\admin\\formaddcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:admin\\formaddcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\bookstore_winforms\\admin\\formaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:admin\\formaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\bookstore_winforms\\admin\\formaddproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:admin\\formaddproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\bookstore_winforms\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\bookstore_winforms\\admin\\formaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:admin\\formaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\bookstore_winforms\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|c:\\users\\vinhnq\\desktop\\bookstore_winforms\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE06C8B-FCC0-4F43-ADED-B88972EA8E64}|BookStore.csproj|solutionrelative:data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +70,57 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAddProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\FormAddProduct.cs",
+              "RelativeDocumentMoniker": "Admin\\FormAddProduct.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\FormAddProduct.cs [Design]",
+              "RelativeToolTip": "Admin\\FormAddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:34:13.456Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\FormAddProduct.cs",
+              "RelativeDocumentMoniker": "Admin\\FormAddProduct.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\FormAddProduct.cs",
+              "RelativeToolTip": "Admin\\FormAddProduct.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:33:45.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlAdminHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\UserControlAdminHome.cs",
+              "RelativeDocumentMoniker": "Admin\\UserControlAdminHome.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\UserControlAdminHome.cs [Design]",
+              "RelativeToolTip": "Admin\\UserControlAdminHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:23:50.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControlAdminHome.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\UserControlAdminHome.cs",
+              "RelativeDocumentMoniker": "Admin\\UserControlAdminHome.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\UserControlAdminHome.cs",
+              "RelativeToolTip": "Admin\\UserControlAdminHome.cs",
+              "ViewState": "AgIAACYCAAAAAAAAAAAAADACAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:24:09.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -54,70 +128,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainForms.cs",
-              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\MainForms.cs",
-              "RelativeDocumentMoniker": "MainForms.cs",
-              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\MainForms.cs",
-              "RelativeToolTip": "MainForms.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T19:43:02.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Authentication.cs",
-              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\Authentication.cs",
-              "RelativeDocumentMoniker": "Authentication.cs",
-              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\Authentication.cs",
-              "RelativeToolTip": "Authentication.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAADkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T19:35:39.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainForms.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\MainForms.cs",
-              "RelativeDocumentMoniker": "MainForms.cs",
-              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\MainForms.cs [Design]",
-              "RelativeToolTip": "MainForms.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T19:42:59.485Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Authentication.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\Authentication.cs",
-              "RelativeDocumentMoniker": "Authentication.cs",
-              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\Authentication.cs [Design]",
-              "RelativeToolTip": "Authentication.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T19:35:31.38Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "QlbsContext.cs",
-              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\Data\\QlbsContext.cs",
-              "RelativeDocumentMoniker": "Data\\QlbsContext.cs",
-              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\Data\\QlbsContext.cs",
-              "RelativeToolTip": "Data\\QlbsContext.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Title": "FormAddCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\FormAddCategory.cs",
+              "RelativeDocumentMoniker": "Admin\\FormAddCategory.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\FormAddCategory.cs [Design]",
+              "RelativeToolTip": "Admin\\FormAddCategory.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T19:34:32.423Z",
+              "WhenOpened": "2025-02-04T16:04:43.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAddEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\FormAddEmployee.cs",
+              "RelativeDocumentMoniker": "Admin\\FormAddEmployee.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\FormAddEmployee.cs [Design]",
+              "RelativeToolTip": "Admin\\FormAddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:04:54.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAddProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\FormAddProduct.Designer.cs",
+              "RelativeDocumentMoniker": "Admin\\FormAddProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\FormAddProduct.Designer.cs",
+              "RelativeToolTip": "Admin\\FormAddProduct.Designer.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAiwNoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:33:55.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "Data\\Book.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Data\\Book.cs",
+              "RelativeToolTip": "Data\\Book.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:00:23.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAddCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\FormAddCustomer.cs",
+              "RelativeDocumentMoniker": "Admin\\FormAddCustomer.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Admin\\FormAddCustomer.cs [Design]",
+              "RelativeToolTip": "Admin\\FormAddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:04:23.397Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "Data\\Employee.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Data\\Employee.cs",
+              "RelativeToolTip": "Data\\Employee.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:11:44.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Data\\Customer.cs",
+              "RelativeDocumentMoniker": "Data\\Customer.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\Data\\Customer.cs",
+              "RelativeToolTip": "Data\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:33:52.821Z",
+              "EditorCaption": ""
             }
           ]
         }

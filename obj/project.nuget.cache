@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uf/Ob52f2gQ=",
+  "dgSpecHash": "U+TBSBE4uuw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinhnq\\Desktop\\FunixCourse\\dotnet_tiny_project\\BookStore\\BookStore.csproj",
+  "projectFilePath": "C:\\Users\\vinhnq\\Desktop\\BookStore_WinForms\\BookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinhnq\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\vinhnq\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -167,6 +167,7 @@
             buttonSaveCustomer.TabIndex = 32;
             buttonSaveCustomer.Text = "Lưu thông tin";
             buttonSaveCustomer.UseVisualStyleBackColor = true;
+            buttonSaveCustomer.Click += buttonSaveCustomer_Click;
             // 
             // FormAddCustomer
             // 

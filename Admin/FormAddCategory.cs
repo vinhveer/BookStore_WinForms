@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BookStore.Data;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,27 @@ namespace BookStore.Admin
         public FormAddCategory()
         {
             InitializeComponent();
+        }
+
+        private void buttonSaveCategory_Click(object sender, EventArgs e)
+        {
+            var categoryName = textBoxNewCategory.Text;
+
+            if (categoryName == "")
+            {
+                MessageBox.Show("Please enter category name");
+                return;
+            }
+
+            using (var db = new QlbsContext())
+            {
+                var category = new Category
+                {
+                    CategoryName = categoryName
+                };
+                db.Categories.Add(category);
+                db.SaveChanges();
+            }
         }
     }
 }

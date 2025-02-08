@@ -29,27 +29,27 @@
         private void InitializeComponent()
         {
             label1 = new Label();
-            textBox1 = new TextBox();
+            textBoxBookName = new TextBox();
             label2 = new Label();
-            comboBox1 = new ComboBox();
-            numericUpDown1 = new NumericUpDown();
+            comboBoxUnit = new ComboBox();
+            numericUpDownQuantity = new NumericUpDown();
             label3 = new Label();
             label4 = new Label();
-            numericUpDown2 = new NumericUpDown();
-            dateTimePicker1 = new DateTimePicker();
+            numericUpDownPrice = new NumericUpDown();
+            dateTimePickerPublicationDate = new DateTimePicker();
             label5 = new Label();
-            comboBox2 = new ComboBox();
-            comboBox3 = new ComboBox();
-            comboBox4 = new ComboBox();
+            comboBoxCategory = new ComboBox();
+            comboBoxAuthor = new ComboBox();
+            comboBoxSupplier = new ComboBox();
             label6 = new Label();
             label7 = new Label();
             label8 = new Label();
-            textBox2 = new TextBox();
+            textBoxImage = new TextBox();
             label9 = new Label();
-            button1 = new Button();
-            button2 = new Button();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown2).BeginInit();
+            buttonChooseImage = new Button();
+            buttonSaveImage = new Button();
+            ((System.ComponentModel.ISupportInitialize)numericUpDownQuantity).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numericUpDownPrice).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -61,12 +61,12 @@
             label1.TabIndex = 0;
             label1.Text = "Tên sách";
             // 
-            // textBox1
+            // textBoxBookName
             // 
-            textBox1.Location = new Point(12, 37);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(776, 31);
-            textBox1.TabIndex = 1;
+            textBoxBookName.Location = new Point(12, 37);
+            textBoxBookName.Name = "textBoxBookName";
+            textBoxBookName.Size = new Size(776, 31);
+            textBoxBookName.TabIndex = 1;
             // 
             // label2
             // 
@@ -77,21 +77,21 @@
             label2.TabIndex = 2;
             label2.Text = "Đơn vị";
             // 
-            // comboBox1
+            // comboBoxUnit
             // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "Cuốn" });
-            comboBox1.Location = new Point(12, 99);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(182, 33);
-            comboBox1.TabIndex = 3;
+            comboBoxUnit.FormattingEnabled = true;
+            comboBoxUnit.Items.AddRange(new object[] { "Cuốn" });
+            comboBoxUnit.Location = new Point(12, 99);
+            comboBoxUnit.Name = "comboBoxUnit";
+            comboBoxUnit.Size = new Size(182, 33);
+            comboBoxUnit.TabIndex = 3;
             // 
-            // numericUpDown1
+            // numericUpDownQuantity
             // 
-            numericUpDown1.Location = new Point(200, 101);
-            numericUpDown1.Name = "numericUpDown1";
-            numericUpDown1.Size = new Size(180, 31);
-            numericUpDown1.TabIndex = 4;
+            numericUpDownQuantity.Location = new Point(200, 101);
+            numericUpDownQuantity.Name = "numericUpDownQuantity";
+            numericUpDownQuantity.Size = new Size(180, 31);
+            numericUpDownQuantity.TabIndex = 4;
             // 
             // label3
             // 
@@ -111,19 +111,19 @@
             label4.TabIndex = 6;
             label4.Text = "Giá";
             // 
-            // numericUpDown2
+            // numericUpDownPrice
             // 
-            numericUpDown2.Location = new Point(386, 101);
-            numericUpDown2.Name = "numericUpDown2";
-            numericUpDown2.Size = new Size(402, 31);
-            numericUpDown2.TabIndex = 7;
+            numericUpDownPrice.Location = new Point(386, 101);
+            numericUpDownPrice.Name = "numericUpDownPrice";
+            numericUpDownPrice.Size = new Size(402, 31);
+            numericUpDownPrice.TabIndex = 7;
             // 
-            // dateTimePicker1
+            // dateTimePickerPublicationDate
             // 
-            dateTimePicker1.Location = new Point(12, 163);
-            dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(368, 31);
-            dateTimePicker1.TabIndex = 8;
+            dateTimePickerPublicationDate.Location = new Point(12, 163);
+            dateTimePickerPublicationDate.Name = "dateTimePickerPublicationDate";
+            dateTimePickerPublicationDate.Size = new Size(368, 31);
+            dateTimePickerPublicationDate.TabIndex = 8;
             // 
             // label5
             // 
@@ -134,29 +134,29 @@
             label5.TabIndex = 9;
             label5.Text = "Thời gian phát hành";
             // 
-            // comboBox2
+            // comboBoxCategory
             // 
-            comboBox2.FormattingEnabled = true;
-            comboBox2.Location = new Point(12, 229);
-            comboBox2.Name = "comboBox2";
-            comboBox2.Size = new Size(368, 33);
-            comboBox2.TabIndex = 10;
+            comboBoxCategory.FormattingEnabled = true;
+            comboBoxCategory.Location = new Point(12, 229);
+            comboBoxCategory.Name = "comboBoxCategory";
+            comboBoxCategory.Size = new Size(368, 33);
+            comboBoxCategory.TabIndex = 10;
             // 
-            // comboBox3
+            // comboBoxAuthor
             // 
-            comboBox3.FormattingEnabled = true;
-            comboBox3.Location = new Point(386, 165);
-            comboBox3.Name = "comboBox3";
-            comboBox3.Size = new Size(402, 33);
-            comboBox3.TabIndex = 11;
+            comboBoxAuthor.FormattingEnabled = true;
+            comboBoxAuthor.Location = new Point(386, 165);
+            comboBoxAuthor.Name = "comboBoxAuthor";
+            comboBoxAuthor.Size = new Size(402, 33);
+            comboBoxAuthor.TabIndex = 11;
             // 
-            // comboBox4
+            // comboBoxSupplier
             // 
-            comboBox4.FormattingEnabled = true;
-            comboBox4.Location = new Point(386, 229);
-            comboBox4.Name = "comboBox4";
-            comboBox4.Size = new Size(402, 33);
-            comboBox4.TabIndex = 12;
+            comboBoxSupplier.FormattingEnabled = true;
+            comboBoxSupplier.Location = new Point(386, 229);
+            comboBoxSupplier.Name = "comboBoxSupplier";
+            comboBoxSupplier.Size = new Size(402, 33);
+            comboBoxSupplier.TabIndex = 12;
             // 
             // label6
             // 
@@ -185,12 +185,12 @@
             label8.TabIndex = 15;
             label8.Text = "Nhà cung cấp";
             // 
-            // textBox2
+            // textBoxImage
             // 
-            textBox2.Location = new Point(12, 301);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(572, 31);
-            textBox2.TabIndex = 16;
+            textBoxImage.Location = new Point(12, 301);
+            textBoxImage.Name = "textBoxImage";
+            textBoxImage.Size = new Size(572, 31);
+            textBoxImage.TabIndex = 16;
             // 
             // label9
             // 
@@ -201,53 +201,55 @@
             label9.TabIndex = 17;
             label9.Text = "Đường dẫn hình ảnh";
             // 
-            // button1
+            // buttonChooseImage
             // 
-            button1.Location = new Point(590, 298);
-            button1.Name = "button1";
-            button1.Size = new Size(198, 34);
-            button1.TabIndex = 18;
-            button1.Text = "Tải lên hình ảnh";
-            button1.UseVisualStyleBackColor = true;
+            buttonChooseImage.Location = new Point(590, 298);
+            buttonChooseImage.Name = "buttonChooseImage";
+            buttonChooseImage.Size = new Size(198, 34);
+            buttonChooseImage.TabIndex = 18;
+            buttonChooseImage.Text = "Tải lên hình ảnh";
+            buttonChooseImage.UseVisualStyleBackColor = true;
+            buttonChooseImage.Click += buttonChooseImage_Click;
             // 
-            // button2
+            // buttonSaveImage
             // 
-            button2.Location = new Point(12, 377);
-            button2.Name = "button2";
-            button2.Size = new Size(189, 34);
-            button2.TabIndex = 19;
-            button2.Text = "Lưu sản phẩm";
-            button2.UseVisualStyleBackColor = true;
+            buttonSaveImage.Location = new Point(12, 377);
+            buttonSaveImage.Name = "buttonSaveImage";
+            buttonSaveImage.Size = new Size(189, 34);
+            buttonSaveImage.TabIndex = 19;
+            buttonSaveImage.Text = "Lưu sản phẩm";
+            buttonSaveImage.UseVisualStyleBackColor = true;
+            buttonSaveImage.Click += buttonSaveImage_Click;
             // 
             // FormAddProduct
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 525);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            ClientSize = new Size(800, 431);
+            Controls.Add(buttonSaveImage);
+            Controls.Add(buttonChooseImage);
             Controls.Add(label9);
-            Controls.Add(textBox2);
+            Controls.Add(textBoxImage);
             Controls.Add(label8);
             Controls.Add(label7);
             Controls.Add(label6);
-            Controls.Add(comboBox4);
-            Controls.Add(comboBox3);
-            Controls.Add(comboBox2);
+            Controls.Add(comboBoxSupplier);
+            Controls.Add(comboBoxAuthor);
+            Controls.Add(comboBoxCategory);
             Controls.Add(label5);
-            Controls.Add(dateTimePicker1);
-            Controls.Add(numericUpDown2);
+            Controls.Add(dateTimePickerPublicationDate);
+            Controls.Add(numericUpDownPrice);
             Controls.Add(label4);
             Controls.Add(label3);
-            Controls.Add(numericUpDown1);
-            Controls.Add(comboBox1);
+            Controls.Add(numericUpDownQuantity);
+            Controls.Add(comboBoxUnit);
             Controls.Add(label2);
-            Controls.Add(textBox1);
+            Controls.Add(textBoxBookName);
             Controls.Add(label1);
             Name = "FormAddProduct";
             Text = "Thêm sản phẩm mới";
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numericUpDownQuantity).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numericUpDownPrice).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -255,24 +257,24 @@
         #endregion
 
         private Label label1;
-        private TextBox textBox1;
+        private TextBox textBoxBookName;
         private Label label2;
-        private ComboBox comboBox1;
-        private NumericUpDown numericUpDown1;
+        private ComboBox comboBoxUnit;
+        private NumericUpDown numericUpDownQuantity;
         private Label label3;
         private Label label4;
-        private NumericUpDown numericUpDown2;
-        private DateTimePicker dateTimePicker1;
+        private NumericUpDown numericUpDownPrice;
+        private DateTimePicker dateTimePickerPublicationDate;
         private Label label5;
-        private ComboBox comboBox2;
-        private ComboBox comboBox3;
-        private ComboBox comboBox4;
+        private ComboBox comboBoxCategory;
+        private ComboBox comboBoxAuthor;
+        private ComboBox comboBoxSupplier;
         private Label label6;
         private Label label7;
         private Label label8;
-        private TextBox textBox2;
+        private TextBox textBoxImage;
         private Label label9;
-        private Button button1;
-        private Button button2;
+        private Button buttonChooseImage;
+        private Button buttonSaveImage;
     }
 }

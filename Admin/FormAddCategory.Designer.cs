@@ -28,17 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            textBoxUsername = new TextBox();
+            textBoxNewCategory = new TextBox();
             label12 = new Label();
             buttonSaveCategory = new Button();
             SuspendLayout();
             // 
-            // textBoxUsername
+            // textBoxNewCategory
             // 
-            textBoxUsername.Location = new Point(12, 44);
-            textBoxUsername.Name = "textBoxUsername";
-            textBoxUsername.Size = new Size(776, 31);
-            textBoxUsername.TabIndex = 23;
+            textBoxNewCategory.Location = new Point(12, 44);
+            textBoxNewCategory.Name = "textBoxNewCategory";
+            textBoxNewCategory.Size = new Size(776, 31);
+            textBoxNewCategory.TabIndex = 23;
             // 
             // label12
             // 
@@ -57,6 +57,7 @@
             buttonSaveCategory.TabIndex = 24;
             buttonSaveCategory.Text = "Thêm danh mục mới";
             buttonSaveCategory.UseVisualStyleBackColor = true;
+            buttonSaveCategory.Click += buttonSaveCategory_Click;
             // 
             // FormAddCategory
             // 
@@ -64,7 +65,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 123);
             Controls.Add(buttonSaveCategory);
-            Controls.Add(textBoxUsername);
+            Controls.Add(textBoxNewCategory);
             Controls.Add(label12);
             Name = "FormAddCategory";
             Text = "Thêm danh mục mới";
@@ -74,7 +75,7 @@
 
         #endregion
 
-        private TextBox textBoxUsername;
+        private TextBox textBoxNewCategory;
         private Label label12;
         private Button buttonSaveCategory;
     }

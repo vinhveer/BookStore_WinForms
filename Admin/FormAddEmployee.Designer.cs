@@ -263,6 +263,7 @@
             buttonSaveEmployee.TabIndex = 24;
             buttonSaveEmployee.Text = "Lưu thông tin";
             buttonSaveEmployee.UseVisualStyleBackColor = true;
+            buttonSaveEmployee.Click += buttonSaveEmployee_Click;
             // 
             // FormAddEmployee
             // 

@@ -12,4 +12,6 @@ public partial class BookAuthor
     public string LastName { get; set; } = null!;
 
     public virtual ICollection<Book> Books { get; set; } = new List<Book>();
+
+    public string FullName => $"{FirstName} {LastName}";
 }
